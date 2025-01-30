@@ -3,6 +3,7 @@ Overview
 The To-Do Task App is a simple command-line application written in Python that helps users manage their tasks efficiently.
 
 Features
+
 ✅ Add Tasks – Users can enter a new task, which will be stored in the task list.
 
 ✅ View Tasks – Displays all the tasks currently on the list.
